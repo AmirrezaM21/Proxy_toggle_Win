@@ -9,3 +9,6 @@ Setup:
    it can be edited by a text editor (e.g. Notepad).
 6. Done!
    Run it via the shortcut (as administrator). it should toggle the proxy and change the Icon of the shortcut depending on proxy's state.
+
+Notes:
+-The default value for proxy is set to "127.0.0.1:8085". You can also edit that to you liking in the beginning of the "proxy_toggle.bat" code.
