@@ -8,4 +8,4 @@ Setup:
 4. Edit the directories of the desktop shortcut and the icons in the beginning of the "proxy_toggle.bat" code to match the files on your system.
    it can be edited by a text editor (e.g. Notepad).
 6. Done!
-   Run it via the shortcut (as administrator). it should toggle to proxy and change the Icon of the shortcut depending on proxy's state.
+   Run it via the shortcut (as administrator). it should toggle the proxy and change the Icon of the shortcut depending on proxy's state.
