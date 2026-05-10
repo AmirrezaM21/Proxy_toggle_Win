@@ -1,5 +1,5 @@
 # Proxy_toggle_Win
-A simple batch script using a desktop shortcut to toggle proxy settings on/off.
+A simple batch script using a desktop shortcut to toggle windows proxy settings on/off.
 
 Setup:
 1. Download "proxy_toggle.bat" and the Icons.
